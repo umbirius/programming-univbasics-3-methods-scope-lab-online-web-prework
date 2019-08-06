@@ -14,4 +14,5 @@ def link
   puts phrase 
 end
 
-any_phrase(phrase)
+def $any_phrase(phrase)
+  puts "Do A Barrel Roll!\n"
